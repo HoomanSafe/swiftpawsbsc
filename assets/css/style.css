@@ -690,7 +690,7 @@ ul {
   padding: 0;
 }
 .port_bannerbg_wrapper {
-  background: url(../images/bg.png);
+  /* background: url(../images/bg.png); */
   background-size: cover;
   -webkit-animation: moveup 50s linear infinite;
   -moz-animation: moveup 50s linear infinite;
